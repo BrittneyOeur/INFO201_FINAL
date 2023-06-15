@@ -1,8 +1,5 @@
-# UW INFO 201 (FINAL PROJECT)
-## Group 11: Brittney Oeur, Elizabeth Williams, and Soha Sultana
-
-## FINAL OVERVIEW:
-This final project requires you to tell a compelling story based on data you've researched, wrangled, and analyzed. You will also be expected to create and deploy your work as a public-facing web appplication.Your final project should show that you have integrated the knowledge you acquire in this class and are able to apply it in the design and implementation of a data visualization story package.
+# Final Project - Project Proposal (INFO 201 A)
+**Group 11: Elizabeth Williams, Soha Sultana, and Brittney Oeur**
 
 ## Story Pitch:
 The story our group intends to tell is about the relationship between tobacco use, employment status and/or education level, and mental health. Such as how the use of tobacco/smoking, the status of someone’s employment and/or education level may have an impact on their mental health.
@@ -12,34 +9,6 @@ We believe this an interesting and compelling story because it touches on a topi
 Some of the data we plan to look at includes causes of smoking in young adults, and the rates of this over time and what treatment options have been presented across the country. These pieces of data are important to look at because it can show what issues are causing young adults to engage in these harmful behaviors, and is it because of the lack of mental health care that is causing this. Analyzing this data can help us understand the correlation between mental health issues and tobacco use. Another question that can be asked is how the rates of young adults using these products changed over time. This is another important question to think about because it can show what significant cultural and historical changes have affected the rate of mental health in young adults to turn to tobacco use. (Ex. COVID). Another question that is worth asking is how the different states responded to this crisis. This is important to look at, as it can give insight on what solutions are working to combat this issue and what areas are experiencing this problem at unprecedented levels. With this information, it can give lawmakers a general overview of this issue and make them aware of what solutions are working, by comparing the data from other states and seeing what solutions have worked and what have not.
 
 Overall, this story is relevant and timely, given the pandemic and the extensive impact it has had on mental health. It is also a topic that affects a large portion of the population and is therefore of interest to many communities. By exploring the relationship between smoking, employment status, education level, and mental health, we can better understand the complex interplay between these factors.
-
-## Expectations:
-Below is a basic project structure that would meet all of the requirements. However, if you have an alternative direction you would like to take the project that demonstrates a similar level of sophistication, we would be excited to support you in doing so (again -- feel free to get creative with how you approach this project!). Regardless of the specific structure, you must:
-
-- Create a shiny application that facilitates the storytelling with your specific dataset through carefully crafted interactions and visualizations
-- Demonstrate a nuanced understanding of the important features of the dataset.  High-level insights (important descriptive information, major trends, notable outliers, etc.) should be prominent in your resource.  At a minimum, your story should include the following: 
-  - At some point, your story should include brief information that explains what the point is and why someone should care
-  - Your story must at a minimum follow one of the 7 data story types (though most will likely include multiple) 
-  - Your story must be “interesting” – i.e. on a topic that fits the provided checklist (see the project proposal for details)
-  - Your story should include an exposition giving context and end with takeaway messages.
- 
-## Structure:
-As mentioned above, you can dictate your own project structure and layout depending on the focus of your project and what kind of stories you want to tell. However, to help guide you, below is a basic structure that meets our expectations (a multi-page shiny app):
-
-- An introductory page providing an overview of the project and background information/context the user will need to know about the domain and dataset -- What is the analysis you are doing? Why should someone care/Why is this interesting? What data will you use to answer those questions? You should include some "additional flare" on this landing page, such as images and links.
-- Three interactive pages that can be used to step through the narrative of your data stories (OR if you have one more involved story, three pages that step through each part of the singular narrative). Each page would correspond to each of the three stories you came up with in your drafts earlier. Each page should have sufficient interactivity (e.g., Shiny widgets and/or tooltips with interactive charts) for exploring your charts and datasets (use tooltips, renderTable, and side panels liberally!). Each page should also have enough text and prompts so that a user can understand what is the story and how to interact with the different charts. For an example of the level of text we are expecting, look back at HW 3. If you would prefer to make fewer pages with more complexity, check with your TA/professor.
-
-OR
-
-- One Long page that uses "Scrollytelling" with appropriate headings and content boxes/panels to break up the story components. This pageLinks to an external site. has a fantastic tutorial (with code!) on how to use scrollytelling to tell an interactive data story. I highly recommend checking out that example to get an idea on the level of detail we expect for a story. 
-
-- Summary takeaways & About Page, a page that hones in on the major takeaways from the project (which should be related to a specific aspect of your analysis). You may want to include a “nut graf” (i.e. a two sentence max statement that explains what the point is/what your 1 main takeaway is and why someone should care) here if you didn't do this already. Feel free to incorporate tables, graphics, or other elements to convey these conclusions. This page can also include your names and where you got your dataset. 
- 
-We expect all projects to have the following:
-- Clear project navigation, leveraging Shiny's multi-page layouts as appropriate OR uses scrollytelling with clear navigation 
-- Clear page layout on each page
-- Well crafted elements, including appropriately sized / labeled / designed elements
-- Supporting visualizations and statistics to back up the main story points. 
 
 ## Finding Data:
 ### 1) Behavioral Risk Factor Data: Tobacco Use (2011 to present)
