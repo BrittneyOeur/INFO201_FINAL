@@ -1,5 +1,5 @@
 # Final Project - Project Proposal (INFO 201 A)
-**Group 11: Elizabeth Williams, Soha Sultana, and Brittney Oeur**
+**Group 11: Brittney Oeur, Elizabeth Williams, and Soha Sultana**
 
 ## Story Pitch:
 The story our group intends to tell is about the relationship between tobacco use, employment status and/or education level, and mental health. Such as how the use of tobacco/smoking, the status of someone’s employment and/or education level may have an impact on their mental health.
