@@ -1,5 +1,5 @@
 # UW INFO 201 (FINAL PROJECT)
-Group 11: Brittney Oeur, Elizabeth Williams, and Soha Sultana
+## Group 11: Brittney Oeur, Elizabeth Williams, and Soha Sultana
 
 ## FINAL OVERVIEW:
 This final project requires you to tell a compelling story based on data you've researched, wrangled, and analyzed. You will also be expected to create and deploy your work as a public-facing web appplication.Your final project should show that you have integrated the knowledge you acquire in this class and are able to apply it in the design and implementation of a data visualization story package.
