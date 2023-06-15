@@ -1,5 +1,32 @@
-# Final Project - Project Proposal (INFO 201 A)
+# UW INFO 201 - FINAL PROJECT
 **Group 11: Brittney Oeur, Elizabeth Williams, and Soha Sultana**
+
+## Summary
+All quarter, you've been working as a group to craft a data story using datasets from a domain of your choice. In the final deliverable, you will now be creating a shiny app to demonstrate your sharpened skills, and share a nuanced understanding your analysis as it relates to the broader domain. We hope that you take the time to design and build something that you'd be excited to show others and include in your portfolio. 
+
+The prompt is pretty open-ended on purpose -- part of this assignment is asking you to be creative and think about what it means to tell a compelling an interesting story using data. If you are looking for inspiration, take a look at some of the past homework assignments, the exampleLinks to an external site. we talked about in class, and re-watch some of the advice I gave in week 8's lectures. 
+
+## Expectations
+Below is a basic project structure that would meet all of the requirements. However, if you have an alternative direction you would like to take the project that demonstrates a similar level of sophistication, we would be excited to support you in doing so (again -- feel free to get creative with how you approach this project!). Regardless of the specific structure, you must:
+
+- Create a shiny application that facilitates the storytelling with your specific dataset through carefully crafted interactions and visualizations
+- Demonstrate a nuanced understanding of the important features of the dataset.  High-level insights (important descriptive information, major trends, notable outliers, etc.) should be prominent in your resource.  At a minimum, your story should include the following: 
+  - At some point, your story should include brief information that explains what the point is and why someone should care
+  - Your story must at a minimum follow one of the 7 data story types (though most will likely include multiple) 
+  - Your story must be “interesting” – i.e. on a topic that fits the provided checklist (see the project proposal for details)
+  - Your story should include an exposition giving context and end with takeaway messages.
+  
+## Structure
+As mentioned above, you can dictate your own project structure and layout depending on the focus of your project and what kind of stories you want to tell. However, to help guide you, below is a basic structure that meets our expectations (a multi-page shiny app):
+
+- An introductory page providing an overview of the project and background information/context the user will need to know about the domain and dataset -- What is the analysis you are doing? Why should someone care/Why is this interesting? What data will you use to answer those questions? You should include some "additional flare" on this landing page, such as images and links.
+- Three interactive pages that can be used to step through the narrative of your data stories (OR if you have one more involved story, three pages that step through each part of the singular narrative). Each page would correspond to each of the three stories you came up with in your drafts earlier. Each page should have sufficient interactivity (e.g., Shiny widgets and/or tooltips with interactive charts) for exploring your charts and datasets (use tooltips, renderTable, and side panels liberally!). Each page should also have enough text and prompts so that a user can understand what is the story and how to interact with the different charts. For an example of the level of text we are expecting, look back at HW 3. If you would prefer to make fewer pages with more complexity, check with your TA/professor.
+ 
+**We expect all projects to have the following:**
+- Clear project navigation, leveraging Shiny's multi-page layouts as appropriate OR uses scrollytelling with clear navigation 
+- Clear page layout on each page
+- Well crafted elements, including appropriately sized / labeled / designed elements
+- Supporting visualizations and statistics to back up the main story points. 
 
 ## Story Pitch:
 The story our group intends to tell is about the relationship between tobacco use, employment status and/or education level, and mental health. Such as how the use of tobacco/smoking, the status of someone’s employment and/or education level may have an impact on their mental health.
